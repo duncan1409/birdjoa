@@ -9,6 +9,5 @@ Spring을 통해서 서버 API를 구축하고, UI로직을 React에서 담당�
 - Spring
 
 ## Languages
-- react-Bootstrap
 - JavaScript
 - Java
